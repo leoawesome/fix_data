@@ -12,5 +12,8 @@
     "eslint": "^8.40.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.27.5"
+  },
+  "dependencies": {
+    "@opensearch-project/opensearch": "^1.2.0"
   }
 }
